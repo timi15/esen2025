@@ -10,3 +10,14 @@
 1745307361524:create book --title Valami --author Valaki --publisher KiadoKFT --price 123
 1745307365287:list book
 1745307368343:list books
+1745909320099:help
+1745909374538:update book --id 1 --title A
+1745909849129:help
+1745909852665:list books
+1745909872073:delete book --id 5
+1745909877152:list books
+1745910237295:help
+1745911068783:list bookstores
+1745911470599:help
+1745911477855:delete bookstore --id 2
+1745911484480:list bookstores
