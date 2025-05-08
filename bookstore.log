@@ -21,3 +21,11 @@
 1745911470599:help
 1745911477855:delete bookstore --id 2
 1745911484480:list bookstores
+1746713876496:help
+1746713886385:list books
+1746713929772:find prices --id 1
+1746713956971:delete book --id 3
+1746713959725:list books
+1746713995210:update book --id 4 --title xxx
+1746714029683:filter books --title xxx
+1746714034478:filter books --title xx
